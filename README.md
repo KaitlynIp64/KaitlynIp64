@@ -2,8 +2,6 @@
 
 My name is Kaitlyn Ip and I am a student at St. Mother Teresa High School, Ottawa, Canada.
 
-**KaitlynIp64/KaitlynIp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About me:
 
 ## 🔭 Programming Languages:
